@@ -1,0 +1,97 @@
+PATIENCE SIMULI SIMIYU 
+0746868070 | patiencesimuli19@gmail.com | Nairobi, Kenya | LinkedIn 
+SUMMARY
+o	Multi-vendor RAN engineer with 2 years’ experience in configuration, operations & maintenance, integration, and optimization of RAN and Core Networks. 
+o	Nokia, Huawei, and ZTE NR NSA, LTE, UMTS, and GSM RF planning and optimization.
+o	Experience in Huawei and Nokia Drive Test analysis and optimization.
+o	Proficient in multiple wireless and wired technologies: LTE, NR NSA, UMTS, GSM, IPRAN, DWDM, NGN, ADSL.
+o	Comprehensive knowledge of LTE and NR RAN standards, network architecture, and the deployment of advanced features such as Carrier Aggregation. My hands-on experience includes LTE and NR RAN commissioning, scripts gene ration, integration, troubleshooting, and software upgrades, as well as RF tuning and optimization, including LTE RF network parameters and KPI management.
+o	Extensive experience in NOKIA Airscale – ASIA, ABIA, AMIA, ASIK, ABIL and the NOKIA Flexi BTS.
+o	Proficient in NOKIA NetAct, Huawei iMaster (PRS, U2020 etc.).
+o	ZTE LTE Products: ZXSDR B8200 BBU and ZXSDR R8964 eNodeBs & ZXSDR R8984E RRUs.
+SKILLS & TOOLS
+Nokia NetAct, Huawei iMaster (PRS, U2020), Genex Cloud, Probe & Assistant, U-Net, Naster, WMG (Wireless Fault Management Analysis by Huawei), Nokia NSP, Nemo Outdoor, TEMS Investigation, and Atoll.
+EDUCATION
+Huawei Certified ICT Professional-LTE-RNP&RNO                                         December 2024                            Huawei
+Huawei Certified ICT Professional-5G- RNP&RNO                                          December 2024           Huawei
+AWS Certified Cloud Practitioner                                                                               June 2024 Amazon Web Services                                                                                                 
+Cisco Certified Networking Associate                                                                        July 2024 Cisco Systems, Inc.                                                                                                  
+Bsc. Telecommunication and Information Engineering                                 December 2023 Jomo Kenyatta University of Agriculture and Technology 
+Kenya Certificate of Secondary Education (KCSE)                                        November 2017 Moi Girls High School Eldoret  
+EXPERIENCE 
+RAN Engineer                                                                                             February 2024 - Date Huawei Technologies Kenya Limited
+
+●	Comprehensive statistical analysis of KPIs and Huawei counters, worst cell analysis, root cause analysis, and optimization.
+●	3G, 4G, L2NR, and NR parameter inconsistency audit (PCI conflict, Uni-directional NBRs, wrong TAC, MRO, DL split, UL fallback etc.), script generation, and optimization. Impact evaluation.
+●	Features testing, implementation, and analysis: ANR, MRO, ICIC, PS HO to IRAT, traffic steering.
+●	L3 messages and events analysis: TEMS Investigation, Genex Probe, Genex Assistant.
+●	Antenna hardware modification (Tilt, Azimuth) for overshooting and interference.
+●	Design of indoor and outdoor systems to meet coverage objectives.
+●	Commissioning & Integration of 2G, 3G, LTE and 5G sites.
+●	Physical Fiber & RF connectivity background and troubleshooting.
+●	Excellent Bridge handling skills during Troubleshooting.
+●	Software upgrade of 2G/3G/LTE/5G nodes.
+●	Level 2 Trouble Shooting on BTS, Node B, eNodeB B & GnodeB.
+●	Trouble shooting support for alarms clearing. 
+●	Network Monitoring for Alarms and KPI for all Network Elements.
+●	Understands FM main interfaces including Field Operations, SOC, CORE network Radio and Quality.
+●	Frequency refarming and post-refarming optimization and dimensioning.
+●	Network layering strategy planning & optimization.
+●	Capacity Management Dimensioning and traffic balancing by Physical/Power parameter changes
+●	IRAT handover performance improvement (5G TDD Uplink Fallback, CSFB etc.).
+●	Cluster optimization: DT Route planning, drive test log files post-processing using Genex Probe and Assistant to identify possible swap feeders, wrong PCIs, missing neighbors, overshooting cells.
+●	Physical test measurements: Spectrum analysis, UL interference measurement (Agilent scanner), fiber quality testing. 
+●	Cell parameter planning on Genex Cloud and U-net.
+●	Customer Experience Management and big data analysis: VoLTE analysis and optimization (following SIP call flow and IMS protocol), Customer complaints analysis, measurement reports big data analysis, coverage analysis, mobility KPI performance analysis, and optimization using the Discovery platform.
+●	Hadoop, Carbon and SparkSQL scripting for MR big data management. 
+Electronics and AI Engineer                                                        October 2023 - January 2024 Naivas Supermarket Limited (Via the Industry Meets Talent program) 
+●	Collaborated with Naivas Supermarket to conceptualize and develop a smart Machine Learning Powered IoT weighing scale. Used machine learning algorithms to empower the scale with advanced inventory management, auto-replenishment, and sales forecasting functionalities. 
+RAN Engineer                                                                                          Jan 2023 – Jan 2024 Jamii Telecommunications Limited 
+
+●	Nokia Airscale & Flexi BTS configuration: Site configuration files commissioning and software updates. 
+●	Alarm monitoring and clearing, including X2 and other interfaces, VSWR, RET issues, Antennal Line Failure, and RX/TX Level Monitoring. Cleared physical issues alarms, including high temperature and rectifier fail.
+●	Nokia network modernization activities: SRAT to SRAN conversion, Carrier addition, new 4G Layer addition (L1800).
+●	Alarm Monitoring, KPI monitoring (Nokia counter-based analysis), Fault Localization/Correction/Verification.
+●	LTE multi band network KPIs analysis: Worst cells identification, root cause analysis and optimization.
+●	Network parameters inconsistency check, audit and optimization. recommend soft network and physical changes, impact evaluation
+●	Customer experience management: End-to-end signaling call trace to solve customer complaints.
+●	RF propagation analysis to optimize network coverage in targeted areas.
+●	Trouble shooting support for alarms clearing. 
+●	Network Monitoring for Alarms and KPI for all Network Elements.
+●	Fault management on multiple interfaces, including Field Operations, SOC, CORE network Radio and Quality.
+●	Cluster optimization: DT Route planning, drive test log files post-processing using JDSU, Nemo, Atoll etc. to identify possible swap feeders, wrong PCIs, missing neighbors, overshooting cells.
+●	RF Parameters inconsistencies audit (PCI conflict, Uni-directional NBRs, wrong TAC) using Xeda, Xeus Aexio and CME.
+●	Antenna hardware modification (Tilt, Azimuth) for overshooting and interference.
+Network Engineer Intern                                                                         Jan 2022 – Mar 2022 Kenya Power and Lighting Company 
+●	Configured, installed, and maintained network infrastructure. 
+●	Implemented network management solutions to monitor all the company’s devices in the country and detect and resolve issues before services were impacted.
+●	Deployed and maintained firewalls from different vendors. 
+●	Developed and implemented network security protocols.
+●	Participated in routine network security analyses to proactively identify vulnerabilities.
+●	Data centre infrastructure setup and maintenance
+●	Implemented network architectures for VoIP.
+●	Conducted fiber quality measurements to pinpoint faults and spliced fiber optic cable connections. 
+Electrical and Telecommunications Engineer (Intern)                        Mar 2021 – Apr 2021 Star Plastics Limited 
+●	Designed, installed, and maintained wireless network devices.
+●	Repaired PLC injection moulding machines.
+●	Performed high-voltage electrical installation and repair in manufacturing rooms. 
+
+PERSONAL ACHIEVEMENTS 
+●	Developed an RF interference mitigation solution including detection, isolation, and mitigation using advanced algorithms, interference coordination, and power control techniques.
+●	Built an ML-based cybersecurity threat hunting system with behavioral analysis, baseline profile pattern recognition, and correlation and contextualization.
+●	Designed and executed a robust Deep Learning solution leveraging artificial neural networks (ANN) and a Decision Tree Classifier to swiftly identify three-phase faults, locate their positions, and classify fault types within the physical power grid. This research and development initiative aimed to solve Kenya’s power outage problem. Streamlining fault location and classification will ultimately reduce downtime and improve operational efficiency. The solution is patent pending.
+
+SKILLS 
+
+●	Radio Network Planning and Optimization
+●	SparkSQL
+●	Hadoop
+●	LAN and WAN hardware/software
+●	Routing Protocols 
+●	Programming Skills: C++, C, Python, Java
+●	AWS and Azure Cloud computing
+●	Data Centre Infrastructure Setup and Maintenance
+●	Data Science and Artificial Intelligence
+●	Communication and interpersonal skills
+●	Analytical and problem-solving skills
+●	Organizational and time management skills 
